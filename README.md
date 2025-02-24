@@ -69,12 +69,11 @@ The analysis focused on:
 
 - **Sales Performance:**
   - Sales have **increased over the years**.
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/images/Sale%20per%20Category.png" alt="Sale per Category" width="500">
 
-    <img src="Sales Trend over time.png" alt="Sales Trend" width="500">
     
   - The **Central region** had the **highest sales and profit**.
     
-     <img src="Sales per region.png" alt="Sales Trend" width="800">
    
     
   - The **Consumer segment** had the Highest sales.
