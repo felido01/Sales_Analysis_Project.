@@ -85,7 +85,7 @@ The analysis focused on:
 - **Category Insights:**
   - **Technology leads** in both sales and profit.
   
-     <img src="Sale per Category.png" alt="Sales Trend" width="500">
+     <img src="images/Sale per Category.png" alt="Description" width="300">
      
   - **Furniture, despite being the second-highest selling category, had the highest losses and the lowest profit**.
   - **Office Supplies, with the lowest sales, generates the second-highest profit and experiences the least loss**.
